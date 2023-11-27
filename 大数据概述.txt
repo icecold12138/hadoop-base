@@ -1,0 +1,14 @@
+大数据：对海量数据进行分布式处理，发掘数据背后蕴藏的价值
+大数据的特征：
+Volume：数据体量大
+Variety：种类，来源多样化
+value：低价值密度
+velocity：速度快
+veracity：数据的质量
+从海量的高增长、多类别、低信息密度的数据中挖掘出高质量的结果
+大数据核心工作：
+数据存储：可以妥善存储海量待处理数据，hadoop-HDFS，Apache HBase，Apache KUDU
+数据计算：可以从海量数据中计算背后的价值hadoop-mapreduce，Apache Hive（SQL）为主要开发语言，Apache Spark，Apache Flink实时计算
+数据传输：协助各个环节中完成海量数据的传输Apache Kafka,Apache Pulsar,Apache Flume,Apache sqoop
+Apache软件基金会：是专门为支持开源软件项目而办的一个非盈利性组织
+YARN组件：分布式资源调度组件。
